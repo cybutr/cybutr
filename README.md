@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hey there, I'm cybutr! 
 
-<!--
-**cybutr/cybutr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+🎓 15-year-old tech enthusiast | 💻 Aspiring Developer | 🔒 Cybersecurity Student
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm exploring the fascinating world of tech at Smichov Secondary Technical School! My coding journey includes:
+
+```javascript
+const skills = {
+    favorites: "C#",
+    webDev: ["HTML", "CSS", "JavaScript"],
+    other: ["Python", "Bash"],
+    learning: "Always something new! 🌱"
+}
+```
+
+## 🛠️ Notable Projects
+
+### 🎮 [Chambers](https://github.com/cybutr/Chambers/blob/main/README.md)
+An immersive terminal-based simulation featuring:
+- 🌍 Dynamic environments and biomes
+- 🦊 Diverse wildlife simulation
+- ⛈️ Complex weather systems
+
+### 🌌 [Vaporglade](https://github.com/cybutr/Vaporglade/blob/main/README.md)
+*Coming soon with amazing features!*
+
+## ⚡ Fun Facts
+
+- 🎮 Minecraft enthusiast
+- 🚴 Mountain biking adventurer
+- 💭 Always coding something cool
+
+## 📸 Project Showcase
+
+*Amazing screenshots loading... Stay tuned!* 
+
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/cybutr?style=social)](https://github.com/cybutr)
+
+</div>
+
