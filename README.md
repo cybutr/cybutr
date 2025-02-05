@@ -28,17 +28,17 @@ An immersive terminal-based simulation featuring:
 - ⛈️ Complex weather systems
 
 ### 🌌 [Vaporglade](https://github.com/cybutr/Vaporglade/blob/main/README.md)
-*Coming soon with amazing features!*
+*Coming soon with amazing features*
 
 ## ⚡ Fun Facts
 
-- 🎮 Minecraft enthusiast
+- 🎮 Gaming enthusiast
 - 🚴 Mountain biking adventurer
 - 💭 Always coding something cool
 
 ## 📸 Project Showcase
 
-*Amazing screenshots loading... Stay tuned!* 
+*Amazing screenshots loading... * 
 
 <div align="center">
   
